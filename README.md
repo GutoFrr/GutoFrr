@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A self-taught Fullstack Developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gutofrr" alt="gutofrr" /></a> </p>
-
 - 🔭 I’m currently working on **Mirene Ecommerce**
 
 - 🌱 I’m currently learning **Vue 3, C...**
