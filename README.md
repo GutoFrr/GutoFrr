@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mirene Ecommerce**
 
-- 🌱 I’m currently learning **Vue 3, C...**
+- 🌱 I’m currently learning **Vue 3, C++, Python...**
 
 - 💬 Ask me about **React, Next, Node, Express**
 
