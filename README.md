@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A self-taught Fullstack Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Mirene Ecommerce**
+- 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/" />
 
 - 🌱 I’m currently learning **Vue 3, C++, Python...**
 
