@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/">**Mirene Confecções**</a>
 
-- 🌱 I’m currently learning **Python, C++...**
+- 🌱 I’m currently learning **Python, Rust...**
 
 - 💬 Ask me about **React, Next, Node, Express**
 
