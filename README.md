@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="nextjs" width="40" height="40"/>
