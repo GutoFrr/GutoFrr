@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/">**Mirene Confecções**</a>
 
-- 🌱 I’m currently learning **Svelte, Rust...**
+- 🌱 I’m currently learning **Svelte, Rust, FastAPI...**
 
 - 💬 Ask me about **React, Next, Node, Express**
 
