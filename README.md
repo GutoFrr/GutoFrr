@@ -56,7 +56,7 @@
     <img src="express-logo.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="python" width="40" height="40"/>
   </a>
   <br>
   
