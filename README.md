@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A self-taught Fullstack Developer from Brazil</h3>
+<h3 align="center">A self-taught Full Stack Developer from Brazil</h3>
 
 - 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/">**Mirene Confecções**</a> and **Mirene Basics**
 
-- 🌱 I’m currently learning **Svelte, Rust...**
+- 🌱 I’m currently learning **Svelte**
 
 - 💬 Ask me about **React, Next, Node, Express**
 
