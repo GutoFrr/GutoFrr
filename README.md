@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A self-taught Full Stack Developer from Brazil</h3>
 
-- 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/">**Mirene Confecções**</a> and **Mirene Basics**
+- 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/" target="_blank">**Mirene Confecções**</a> and **Mirene Basics**
 
 - 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **React, Next, Node, Express**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
 
 - 📫 How to reach me **gustavodelferreira.12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/gutofrr" target="blank">
+  <a href="https://twitter.com/gutofrr" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gutofrr" height="30" width="40" />
   </a>
 </p>
