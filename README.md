@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/" target="_blank">**Mirene Confecções**</a> and **Mirene Basics**
 
-- 🌱 I’m currently learning **Svelte** and SvelteKit
+- 🌱 I’m currently learning **Svelte**, Prisma...
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
 
@@ -55,19 +55,19 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="express-logo.png" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://fastapi.tiangolo.com/" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <br>
   
-  <h4 align="left">Software Development</h4>
+<!--   <h4 align="left">Software Development</h4>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"    alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
-  <br>
+  <br> -->
   
   <h4 align="left">Database</h4>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -75,6 +75,9 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="prisma" width="40" height="40"/>
   </a>
   <br>
   
