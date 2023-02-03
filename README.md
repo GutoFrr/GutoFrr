@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://mirene-confeccoes.vercel.app/" target="_blank">**Mirene Confecções**</a> and **Mirene Basics**
 
-- 🌱 I’m currently learning **Svelte**, Prisma...
+- 🌱 I’m currently learning Astro...
 
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
 
