@@ -9,6 +9,20 @@
 
 - 📫 How to reach me **gustavodelferreira.12@gmail.com**
 
+<h3 align="left">Veja meus principais projetos:</h3>
+<a href="https://guguitar.vercel.app/" target="_blank">
+  GuGuitar
+</a>
+<a href="https://mireneconfeccoes.vercel.app/" target="_blank">
+  Mirene Confecções
+</a>
+<a href="https://vue-firebase-todo-a7b2d.web.app/" target="_blank">
+  Todo List
+</a>
+<a href="https://mirenebasics.vercel.app/" target="_blank">
+  Mirene Basics (incompleto)
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/gutofrr" target="_blank">
