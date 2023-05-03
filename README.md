@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning Astro... -->
 
-- 💬 Ask me about **React, Next.js, Node.js, Express.js**
+- 💬 Ask me about Web Development
 
 - 📫 How to reach me **gustavodelferreira.12@gmail.com**
 
