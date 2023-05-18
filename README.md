@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A Full Stack Developer from Brazil</h3>
 
-- 🔭 I’m currently working in my <a href="https://bigorna.vercel.app/" target="_blank"><b>Portfolio</b></a>!
+<!-- - 🔭 I’m currently working in my <a href="https://bigorna.vercel.app/" target="_blank"><b>Portfolio</b></a>! -->
 
 <!-- - 🌱 I’m currently learning Astro... -->
 
