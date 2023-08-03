@@ -25,11 +25,11 @@
     Todo List
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <a href="https://mirenebasics.vercel.app/" target="_blank">
     Mirene Basics (incompleto)
   </a>
-</p>
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
