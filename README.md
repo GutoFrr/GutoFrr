@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A Full Stack Developer from Brazil</h3>
 
-<!-- - 🔭 I’m currently working in my <a href="https://bigorna.vercel.app/" target="_blank"><b>Portfolio</b></a>! -->
-
-<!-- - 🌱 I’m currently learning Astro... -->
+- 🔭 Check my <a href="https://gustavodev.com/" target="_blank"><b>Portfolio</b></a>!
 
 - 💬 Ask me about Web Development
 
 - 📫 How to reach me **gustavodelferreira.12@gmail.com**
 
-<h3 align="left">Veja meus principais projetos:</h3>
+<h3 align="left">Main projects:</h3>
 <p align="left">
   <a href="https://guguitar.vercel.app/" target="_blank">
     GuGuitar
