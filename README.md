@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A Full Stack Developer from Brazil</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 Check my <a href="https://gustavodev.com/" target="_blank"><b>Portfolio</b></a>!
 
@@ -7,33 +7,8 @@
 
 - 📫 How to reach me **gustavodelferreira.12@gmail.com**
 
-<h3 align="left">Main projects:</h3>
-<p align="left">
-  <a href="https://guguitar.vercel.app/" target="_blank">
-    GuGuitar
-  </a>
-</p>
-<p align="left">
-  <a href="https://mireneconfeccoes.vercel.app/" target="_blank">
-    Mirene Confecções
-  </a>
-</p>
-<p align="left">
-  <a href="https://vue-firebase-todo-a7b2d.web.app/" target="_blank">
-    Todo List
-  </a>
-</p>
-<!-- <p align="left">
-  <a href="https://mirenebasics.vercel.app/" target="_blank">
-    Mirene Basics (incompleto)
-  </a>
-</p> -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/gutofrr" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gutofrr" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/gustavo-ferreira-231938224/" target="_blank">
     <img align="center" src="https://img.freepik.com/icones-gratis/linkedin_318-157468.jpg" alt="linkedIn" height="40" width="40" />
   </a>
@@ -101,15 +76,6 @@
   </a>
   
   <br>
-  
-<!--   <h4 align="left">Software Development</h4>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"    alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  </a>
-  <br> -->
 
   <h4 align="left">Misc</h4>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
