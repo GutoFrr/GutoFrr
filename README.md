@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 Check my <a href="https://gustavodev.com/" target="_blank"><b>Portfolio</b></a>!
+- 🔭 Check my <a href="https://gutodev.vercel.app" target="_blank"><b>Portfolio</b></a>!
 
 - 💬 Ask me about Web Development
 
