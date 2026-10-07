@@ -4,7 +4,7 @@
 
 I build products end to end and lead the teams that ship them. I scope features with the CTO and Product, design the architecture, review code and mentor developers — and I still write a lot of the code myself: TypeScript, Vue and Node.js on AWS, with C#/.NET services where they fit best.
 
-[Portfolio](https://gutodev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gustavo-ferreira-231938224) · [Email](mailto:gustavodelferreira.12@gmail.com)
+[Portfolio](https://gutodev.vercel.app) · [Résumé (PDF)](https://gutodev.vercel.app/Gustavo-Ferreira-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/gustavo-ferreira-231938224) · [Email](mailto:gustavodelferreira.12@gmail.com)
 
 ### What I've been building
 
