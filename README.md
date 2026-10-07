@@ -1,97 +1,35 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">Full Stack Developer</h3>
+## Hi, I'm Gustavo 👋
 
-- 🔭 Check my <a href="https://gutodev.vercel.app" target="_blank"><b>Portfolio</b></a>!
+**Tech Lead and full stack engineer** at [Groner](https://gronercrm.com.br), the CRM built for Brazil's solar energy industry. Based in Curitiba, Brazil (UTC−3).
 
-- 💬 Ask me about Web Development
+I build products end to end and lead the teams that ship them. I scope features with the CTO and Product, design the architecture, review code and mentor developers — and I still write a lot of the code myself: TypeScript, Vue and Node.js on AWS, with C#/.NET services where they fit best.
 
-- 📫 How to reach me **gustavodelferreira.12@gmail.com**
+[Portfolio](https://gutodev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/gustavo-ferreira-231938224) · [Email](mailto:gustavodelferreira.12@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-ferreira-231938224/" target="_blank">
-    <img align="center" src="https://img.freepik.com/icones-gratis/linkedin_318-157468.jpg" alt="linkedIn" height="40" width="40" />
-  </a>
-</p>
+### What I've been building
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <h4 align="left">Front-end</h4>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt=tailwindcss width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"> 
-    <img src="https://astro.js.org/astro.png" alt="astro" width="40" height="40"/>
-  </a>
-  <br>
-  
-  <h4 align="left">Back-end</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="express-logo.png" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" alt="prisma" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" alt="docker" width="40" height="40" />
-  </a>
-  
-  <br>
+At Groner, where I grew from junior front-end developer to Tech Lead in 21 months and have led 6 developers:
 
-  <h4 align="left">Misc</h4>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+- **GronerZap** — a WhatsApp contact center native to the CRM, built on Meta's official WhatsApp API and Uazapi.
+- **Solar financing** — integrations with Solfácil, Sol Agora and Banco BV that generate financing proposals inside the platform.
+- **Service Orders** — a field-service module in the vein of Field Control and Auvo, rolled out at the headquarters of Resolve Energia Solar.
+- Gamification, internal chat and dozens of other CRM modules.
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gutofrr&show_icons=true&title_color=61dafb&text_color=ffffff&bg_color=222d3d&hide_border=true&locale=en&layout=compact" alt="gutofrr" />
-</p>
+Freelance and earlier work:
+
+- **Freelance (2023–2024)** — a React Native app for Instituição Rosacruz (AMORC), the Vue.js front end of a finance and investments app, and [SplitWave](https://splitwave.vercel.app), a website where students upload and browse records of seismic events (Astro, Vue.js, AWS RDS).
+- **Mirene Confecções (2022–2023)** — the [institutional website](https://www.mireneconfeccoes.com.br/) and an ERP for a uniform manufacturer (Astro, Vue.js, Bun, Hono, Google Cloud Run).
+
+Most of my professional work lives in private repositories, so the public projects here are mostly older and learning ones.
+
+### Tech stack
+
+<img src="https://skillicons.dev/icons?i=ts,js,vue,react,nextjs,astro,tailwind,nodejs,bun,express,dotnet,cs,aws,gcp,docker&perline=15" alt="TypeScript, JavaScript, Vue.js, React, Next.js, Astro, Tailwind CSS, Node.js, Bun, Express, .NET, C#, AWS, Google Cloud and Docker" />
+
+- **Languages:** TypeScript, JavaScript, C#, SQL, HTML, CSS
+- **Front end:** Vue.js, React, React Native, Next.js, Astro, Quasar, Tailwind CSS
+- **Back end and data:** Node.js, Bun, Express, Hono, .NET, Entity Framework, SQL Server, DynamoDB
+- **Cloud and DevOps:** AWS (Lambda, ECS, SQS, SES, S3, CloudFront, Amplify), Google Cloud, Docker
+- **Tools:** Git, GitHub, GitLab, Vite, Jest, Figma, n8n
+
+**Spoken languages:** Portuguese (native), English (advanced).
